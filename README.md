@@ -1,8 +1,5 @@
-Huh why are you reading my profile?? just kidding.
-
-- My name is Abdelali (I think it's obvious).
-- I like spending my time making Homebrews or cool Arduino tools.
-- You can DM me on Discord :-) : @Abdelali221
+A 16yo dev that doesn't know what he's doing.
+Also an electronics amateur in some sort.
 
 <!---
 abdelali221/abdelali221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
