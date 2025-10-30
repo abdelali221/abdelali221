@@ -3,6 +3,7 @@ A 16yo dev that doesn't know what he's doing.
 Also an electronics amateur in some sort.
 
 Discord: @abdelali221
+
 DM me if you need advices about wii dev :).
 
 <!---
